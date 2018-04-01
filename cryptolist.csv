@@ -1,2 +1,2 @@
-Ticker,Position,MktPrice,Value,WAP,UPL,RPL,TotalPL
-CASH,1000000,1,,,,,
+Ticker,Position,MktPrice,Value,WAP,UPL,RPL,TotalPL,PerByShares,PerByDollars
+CASH,1000000,1,,,,,,,
